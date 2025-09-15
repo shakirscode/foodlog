@@ -22,3 +22,13 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Implementation
+![header image](Snapshot_01.jpg)
+![header image](Snapshot_02.jpg)
+![header image](Snapshot_03.jpg)
+![header image](Snapshot_04.jpg)
+![header image](Snapshot_05.jpg)
+![header image](Snapshot_06.jpg)
+![header image](Snapshot_07.jpg)
+
